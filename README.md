@@ -1,6 +1,6 @@
 
 <div dir="rtl">
-<a href="https://github.com/idofurst/ESP32_IOT_OS/blob/main/README.md#%D7%97%D7%99%D7%91%D7%95%D7%A8-esp-cam-%D7%9Crealtime-database">חיבור ESP-cam</a>
+<a href="https://github.com/shealtiely/ESP32_IOT_OS?tab=readme-ov-file#%D7%97%D7%99%D7%91%D7%95%D7%A8-esp-cam-%D7%9Crealtime-database">חיבור ESP-cam</a>
 
   
   # ESP32 IoT OS
