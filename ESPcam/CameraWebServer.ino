@@ -7,7 +7,7 @@
 // ===========================
 #include "board_config.h"
 
-#define DATABASE_URL "robotic-laser-tank-default-rtdb.firebaseio.com" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "PROJECT-NAME.firebaseio.com"
 
 /* 3. Define the Firebase Data object */
 FirebaseData fbdo;
