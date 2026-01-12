@@ -220,13 +220,20 @@ Core 1 (Application CPU):
 ## קונפיגורציה של המצלמה
 תשנו את החלקים הבאים לפי הפרוייקט שלכם: <br>
 כתובת מסד נתונים ואת הנקודת גישה(WiFi) **מומלץ לשים נקודה חמה**
+2 הדגשים:
+יש להוריד את ה / ואת ה https:// מהכתובת המסד נתונים.
+חייב לשנות את שם הנקודה חמה לשם ללא אותיות בעברית, רווחים או גרשים.
 ```
-#define DATABASE_URL "robotic-laser-tank-default-rtdb.firebaseio.com"
+#define DATABASE_URL "PROJECT-NAME.firebaseio.com"
 ...
 ...
-const char *ssid = "oplus_co_apofwi";
-const char *password = "hkum7108";
+const char *ssid = "WIFI name";
+const char *password = "password";
 ```
+
+## בחירת בורד נכון.
+יש להוסיף לתיקיית הפרוייקט את הקובץ "board_config.h" שנמצא בקבצים כאן תחת תקיית ESPcam ולהשתמש בבורד AI Thinker ESP32-CAM 
+
 אחרי זה צריבה
 
 ## פיד המצלמה
