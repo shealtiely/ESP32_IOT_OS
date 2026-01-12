@@ -20,8 +20,8 @@ FirebaseConfig fconfig;
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "oplus_co_apofwi";
-const char *password = "hkum7108";
+const char *ssid = "WIFI name";
+const char *password = "password";
 
 void startCameraServer();
 void setupLedFlash();
